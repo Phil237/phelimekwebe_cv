@@ -197,6 +197,7 @@ Jul 2022<br>
 ## Hard Skills, Technologies and Personal Projects
 **Big Data Analytics** 
 > - [Introduction to Relational Database and SQL](https://coursera.org/share/7f1526f5fe1f9abcf1bd672d381d4c09)<br>
+> - [Prepare, Clean, Transform, and Load Data using Power BI](https://coursera.org/share/51eb27d5671889e6e8c71e80c6898632)<br>
 > - [Analyzing Olympics Data with SQL and Python](https://app.datacamp.com/workspace/w/438fcba8-c5c5-4c0b-a520-95bf952e82ff)<br>
 > - [Analyzing TV Data](https://app.datacamp.com/workspace/w/406e39bb-c70c-45a3-a76b-9af64c9b0e30)<br>
 > - [Collaborating in Workspace](https://app.datacamp.com/workspace/w/e6af586d-e847-4256-978d-e0d016d13dae)<br>
