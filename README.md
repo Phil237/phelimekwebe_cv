@@ -7,7 +7,7 @@ to organizational growth and success.
 
 ## Personal Info
  Phelim Ekwebe <br> 
- +32465901962 <br>
+ +32 465901962 <br>
  Slachthuisstraat, 3300 Tienen Belgium <br>
  phelim24@hotmail.com / phelim.ekwebe@graffiland.com <br>
  [LinkedIn](www.linkedin.com/in/phelimekwebe) <br>
@@ -113,78 +113,99 @@ to organizational growth and success.
 
 
 ## Certifications, Training & Awards
-**Microsoft Certified: Data Analyst Associate**<br>
-*June 2021*<br>
-**Skills Acquired**: Prepare the data, Model the data, Visualize the data, Analyze the data, Deploy and maintain deliverables using PowerBi<br>
+**SAP Certificaions**<br>
+**SAP Certified Application Associate - Business Process Integration with SAP S/4HANA 2020**<br>
+(relevant for SAP S/4HANA Cloud, private edition and SAP S/4HANA on-premise) <br>
+*Dec 2023*<br>
+**Skills Acquired:**
+> - Business Processes Integration (BPI) in SAP S/4HANA<br>
 
-**Microsoft Azure AI Fundamental**<br>
-*April 2021*<br>
-**Skills Acquired**: Describe Artificial Intelligence workloads and considerations, fundamental principles of machine learning on Azure, features of computer vision workloads on Azure,  features of Natural Language Processing (NLP) workloads on Azure and features of conversational AI workloads on Azure<br>
+**Microsoft Certified**<br>
+**[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/PhelimEkwebe-1327/5FF07370E59DB9B9?sharingId=52EA3AFD90417CE1)**<br>
+*Jul 2023*<br>
+**Skills Acquired:**
+> - Describe core data concepts
+> - Identify considerations for relational data on Azure
+> - Describe considerations for working with non-relational data on Azure
+> - Describe an analytics workload on Azure<br>
+
+**[Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/PhelimEkwebe-1327/2EBCA0485E2FE1DF?sharingId=52EA3AFD90417CE1)**<br>
+*Jul 2023*<br>
+**Skills Acquired:**
+> - Describe cloud concepts
+> - Describe Azure architecture and services
+> - Describe Azure management and governance<br>
 
 **Linkedin Learning**<br>
-*February, 2021*
-> - Learning Cloud Computing: Core Concepts
-> - Data Science Foundations: Data Engineering
+Learning path: Prepare for the Azure Data Fundamentals (DP-900) Certification Exam
+Jan 2023<br>
+**Skills Acquired:**
+> - Data Analysis, Data Management, Microsoft Azure
+> - Learn valuable data concepts
+> - Develop a basic understanding of Azure data services
+> - Prepare for the Azure Data Fundamentals certification exam
 
-**Databricks Academy**<br>
-*December 06, 2020*<br>
-> - Certificate of Completion of Introduction to Apache Spark’s Architecture<br>
-> -	Certificate of Completion of Fundamentals of SQL<br>
+Learning path: Career Essentials in Business Analysis by Microsoft and LinkedIn
+*Mar 2023*<br>
+**Skills Acquired:**
+> - Requirements Gathering, Project Management, Business Analysis
+> - Develop essential business analysis skills
+> - Master software tools used in business analysis
+> - Leverage requirements gathering and analysis techniques
 
-*November 28, 2020*<br>
-> - Certificate of Completion of Introduction to Big Data <br>
-> -	Certificate of Completion of Unified Data Analytics<br>
+**Coursera**<br>
+[SAP Technology Consultant](https://coursera.org/share/8a4396b0a8be01bf1e860d5bee1dc6e2)
+Dec 2023<br>
+**Skills Acquired:**
+> - Solution design and implementation
+> - Understanding the SAP world and solutions
+> - Business and process analysis
+> - Client engagement and communication
+> - How to launch and develop your SAP career
 
-**Microsoft Certified: Azure Data Scientist Associate**<br>
-*August 2020*<br>
-**Skills Acquired**: Set up an Azure Machine Learning workspace, Run experiments and train models, Optimize and manage models, Deploy and consume models<br>
+[Google Data Analytics](https://coursera.org/share/8cffae9b7f025967382668de93e31028)
+Aug 2022<br>
+**Skills Acquired:**
+> - Data Analysis with R Programming
+> - Google Data Analytics Capstone: Complete a Case Study
+> - Prepare Data for Exploration
+> - Foundations: Data, Data, Everywhere
+> - Process Data from Dirty to Clean
+> - Analyze Data to Answer Questions
+> - Share Data Through the Art of Visualization
+> - Ask Questions to Make Data-Driven Decisions
 
-***SAS Certified Specialist: Machine Learning Using SAS Viya 3.4***<br>
-*April 2020*<br>
-*Verification ID: FHLS3SW12N14QCKD*<br>
-**Skills Acquired**: Preparing data and feature engineering, Creating supervised machine learning models, Assessing model performance, Deploying models into production<br>
+Google Project Management: Professional Certificate
+Oct 2023<br>
+**Skills Acquired:**
+> - Procurement
+> - Risk Management
+> - Strategic Thinking
+> - Task Estimation
+> - Project Planning
 
-**SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling**<br>
-*February 2020*<br>
-*Verification ID: 7YNCPBEKKB1QQWC2*<br>
-**Skills Acquired**: Analysis of variance, Linear and logistic regression, Preparing inputs for predictive models, Measuring model performance<br>
+**Datacamp**<br>
+[Professional Data Analyst Certificate]([https://coursera.org/share/8a4396b0a8be01bf1e860d5bee1dc6e2](https://www.datacamp.com/certificate/DA0013152733614))
+Jul 2022<br>
+**Skills Acquired:**
+> - Analytic Fundamentals
+> - Exploratory Analysis
+> - Data Management
+> - Visualization and Reporting
 
-**SAS Certified Specialist: Base Programming Using SAS 9.4**<br>
-*November 2019*<br>
-*Verification ID: BP368VGK22B1185K*<br>
-**Skills Acquired**: Access and Create Data Structures, Manage Data, Error Handling, Generate Reports and Output<br>
 
-## Seminars, Events & Hackathons
-**Event:** [Project InnerEye](https://aka.ms/InnerEyeRSNA)<br>
-*Medical Imaging Deep Learning library to train and deploy models on Azure Machine Learning and Azure Stack*<br>
-**Organizer: Microsoft**<br>
-*Date: 2/11/2021*<br>
-
-**Event : Introduction to Lakehouse and SQL Analytics**
-**Organizer: Databricks**
-*9/2/2021*
-
-**Event:** [Project Moab](https://microsoft.github.io/moab/), [Project Bonsai](https://docs.microsoft.com/en-us/bonsai/)<br>
-*Autonomous Systems from Microsoft*<br>
-**Organizer: Microsoft**<br>
-*Date: 2/3/2021*<br>
-
-**WHO AFRICA Hackathon** <br>
-*30TH March – 1ST April 2020* <br>
-**ACTIVITIES**
-> - Brainstorming on the	Development of new technological and innovative ideas that could contribute to strengthening the current COVID-19 response in the Africa continent.  
-[Covid-19 Screening Tool](https://covid-19-119e0.web.app/)
 
 ## Hard Skills, Technologies and Personal Projects
 
 **Big Data Analytics** 
-> - [New York Taxi Analytics](https://github.com/MSBGDA/INFO-H-600-Project-Group-AH.git)<br>
-> - [US Air Travel Flight Delays](https://github.com/ivombi/Introduction-to-Programming/blob/master/big_assignment.py)<br>
+> - [Analyzing Olympics Data with SQL and Python]((https://app.datacamp.com/workspace/w/438fcba8-c5c5-4c0b-a520-95bf952e82ff))<br>
+> - [Analyzing TV Data](https://app.datacamp.com/workspace/w/406e39bb-c70c-45a3-a76b-9af64c9b0e30)<br>
+> - [Collaborating in Workspace](https://app.datacamp.com/workspace/w/e6af586d-e847-4256-978d-e0d016d13dae)<br>
 
-**Skills:** Python, Spark, Data wrangling, Visualization, SQL, Jupyter Notebook, Markdown, spark RDD,  pandas, Numpy<br>
+**Skills:** Python, Workspaces, Data wrangling, Visualization, SQL, Jupyter Notebook, Markdown, pandas, Numpy<br>
 
 **Machine Learning** 
-> - [House Price Prediction](https://github.com/ivombi/House-price-prediction.git)<br>
+> - [Analyze Data in a Model Car Database with MySQL Workbench](https://github.com/ivombi/House-price-prediction.git)<br>
 > - [Titanic passenger survival prediction](https://github.com/ivombi/Titanic-Machine-Learning-from-Disaster.git)<br>
 
 **Skills:** Machine learning, python, Azure ML, scikit learn, Hyper-parameter tuning, data wrangling, model deployment, Jupyter notebook, pandas, Numpy<br>
