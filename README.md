@@ -175,7 +175,7 @@ Aug 2022<br>
 > - Share Data Through the Art of Visualization
 > - Ask Questions to Make Data-Driven Decisions
 
-Google Project Management: Professional Certificate
+[Google Project Management: Professional Certificate](https://coursera.org/share/8cffae9b7f025967382668de93e31028)
 Oct 2023<br>
 **Skills Acquired:**
 > - Procurement
@@ -185,7 +185,7 @@ Oct 2023<br>
 > - Project Planning
 
 **Datacamp**<br>
-[Professional Data Analyst Certificate]([https://coursera.org/share/8a4396b0a8be01bf1e860d5bee1dc6e2](https://www.datacamp.com/certificate/DA0013152733614))
+[Professional Data Analyst Certificate](https://www.datacamp.com/certificate/DA0013152733614)
 Jul 2022<br>
 **Skills Acquired:**
 > - Analytic Fundamentals
@@ -198,57 +198,32 @@ Jul 2022<br>
 ## Hard Skills, Technologies and Personal Projects
 
 **Big Data Analytics** 
+> - [Introduction to Relational Database and SQL](https://coursera.org/share/7f1526f5fe1f9abcf1bd672d381d4c09)
 > - [Analyzing Olympics Data with SQL and Python]((https://app.datacamp.com/workspace/w/438fcba8-c5c5-4c0b-a520-95bf952e82ff))<br>
 > - [Analyzing TV Data](https://app.datacamp.com/workspace/w/406e39bb-c70c-45a3-a76b-9af64c9b0e30)<br>
 > - [Collaborating in Workspace](https://app.datacamp.com/workspace/w/e6af586d-e847-4256-978d-e0d016d13dae)<br>
 
-**Skills:** Python, Workspaces, Data wrangling, Visualization, SQL, Jupyter Notebook, Markdown, pandas, Numpy<br>
+**Skills:** Python, Workspaces, Data wrangling, Visualization, SQL, MySQL, Jupyter Notebook, Markdown, pandas, Numpy, Data Science, Database (DBMS), Relational Database<br>
 
-**Machine Learning** 
-> - [Analyze Data in a Model Car Database with MySQL Workbench](https://github.com/ivombi/House-price-prediction.git)<br>
-> - [Titanic passenger survival prediction](https://github.com/ivombi/Titanic-Machine-Learning-from-Disaster.git)<br>
+**Business Analysis** 
+> - [Business Analysis & Process Management](https://coursera.org/share/062017cedc5e589a60d34f45b49951eb)
 
-**Skills:** Machine learning, python, Azure ML, scikit learn, Hyper-parameter tuning, data wrangling, model deployment, Jupyter notebook, pandas, Numpy<br>
+**Skills:** Business background, Computer literacy, Process Management <br>
 
-**Data Visualization**
-> - [Violence in Nigeria](https://github.com/ivombi/Data-visualisation.git)<br>
-> - [NY Taxi Tour Guide](https://github.com/ivombi/NY-Taxi.git)<br>
+**Digital Marketing**
+> - [Create a Landing Page using Mailchimp](https://coursera.org/share/ea3d25f0e2e6955d12ae9f92583a2bd5)
 
-**Skills:** Vega & Vega-Lite, Altair package, R programming, Latex, Python, ipython Widgets, Matplotlib, seaborn<br>
+**Skills:** Desig, Lead Generatio, landing page automation <br>
 
- **Time Series Forecast**
- > - [NY Taxi Trip duration and Fare amount forecast](https://github.com/ivombi/NY-Taxi-Forecast.git)
- > - [USA Shootings](https://github.com/ivombi/US-Shootings.git)
- 
- **Skills:** Jupyter Widgets, Time series analysis, pmdarima
- 
- **Software Development**
- > - [Inventory and Finance Management system](https://www.facebook.com/kubam.mbi/posts/1492845557439243)
- 
- **Skills:** Hadoop, Apache Spark, MongoDB, Map/Reduce, MySQL, Azure SQL, Git and GitHub, SAS, R, MatLab, Data crunching, NoSQL, BigData, distributed Computing, Azure Cloud
+
  **Soft Skills:** 
+ > - Business Process Improvement
  > - Strong communication and presentation skills 
  > - Creative, innovative, and strategic thinker
  > - Ability to simultaneously coordinate and track multiple deliverables, tasks and dependencies across multiple stakeholders / business areas 
- > - Leader and team player
- > - Proactive attitude, customer oriented and results. 
+ > - problem solving and team player
+ > - Proactive attitude, customer oriented and results.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  
 
