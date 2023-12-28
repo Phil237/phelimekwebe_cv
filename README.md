@@ -1,94 +1,116 @@
 ## About Me
-Ivo Mbi is a Cameroonian by birth and currently residing in Belgium with over 5+ years of working experience in data related fields such as database designer, developer and administrator and data analyst, helping companies store, manage, extract and make sense out their data. His successes have been backed by a rich and diverse educational background with degrees in data science, statistics, Health economics and Biochemistry. Not leaving out key certifications such as Microsoft Certified Azure Data Scientist Associate and SAS Certified Specialist in Machine Learning Using SAS Viya 3.4 just to name a few. He is very passionate about helping business make data driven decisions. While looking forward to become a chief data officer in the future, he intends to pick up positions such as Data Engineer, Machine Learning Engineer, Data Scientist, Data Analyst. Lately , reading books and doing writeups excites him and makes him a better person.![alt text](https://github.com/ivombi/ivombi/blob/main/avatar2.jpg)
+Highly motivated and results-driven professional with a passion for leveraging technology
+and data to drive business transformation. Seeking a client-facing role to apply expertise in
+project management, business analysis, and data-driven decision-making, and contribute
+to organizational growth and success.
 
 
 ## Personal Info
- Kubam Ivo Mbi <br> 
- +32489500135 <br>
- Kerkstraat 30, Tienen Belgium <br>
- ivombi97@gmail.com / ivombi@outlook.com <br>
- [LinkedIn](www.linkedin.com/in/kubamivombi) <br>
+ Phelim Ekwebe <br> 
+ +32465901962 <br>
+ Slachthuisstraat, 3300 Tienen Belgium <br>
+ phelim24@hotmail.com / phelim.ekwebe@graffiland.com <br>
+ [LinkedIn](www.linkedin.com/in/phelimekwebe) <br>
 
 ## Education
- **Université Libre de Brussels, Belgium**
+ **Katholique Universiteit Leuven, Belgium**
  <br>
- *Advance Master: Data Science, Big Data* <br>
- *2020 - 2021* <br>
+ *MBA: Business Information Management* <br>
+ *2023* <br>
  
-**University of Hasselt, Belgium** <br>
-*MSc. Statistics* <br>
-*2018 - 2021* <br>
+**University College Leuven-Limburg, Belgium** <br>
+*PG. ERP (SAP) Functional Consultant* <br>
+*2023 - 2024* <br>
 
-**Catholic University Cameroon** <br>
-*MSc. Health Economics Policy and Management* <br>
-*2014 - 2016* <br>
+**Odisee University College** <br>
+*BSc. Business Management - Marketing* <br>
+*2020 - 2023* <br>
+
+**Odisee University College** <br>
+*BSc. Data Science, Protection and Security* <br>
+*2018 (Not Completed)* <br>
 
 **University of Buea, Cameroon** <br>
-*BSc. Biochemistry* <br>
-*2007 - 2010* <br>
+*BSc. Life Sciences (Animal Physiology)* <br>
+*2010 - 2013* <br>
 
 ## Work Experience 
-**Data Engineer/ Data Scientist Intern**<br>
-**DataMinded, Leuven-Belgium**<br>
-*1/3/2021 – 28/5/2021*<br>
+**Customer Solutions SAP**<br>
+**CSM Bakery Solutions**<br>
+*Feb 2024 – Present*<br>
 **ACTIVITIES**
-> -	Project: Automated Anomaly Detection (AOD) tool
-> -	Train, test and evaluated 4 outlier detection models against 6 datasets
-> -	Best model (COPOD) was then used to detect outliers on a real weather dataset from Brazil.
-> -	Recommendations for the AOD tool  
+> -	Project: SAP Implementation
+> -	Train, test and evaluated SAP solutions for various clients
+> -	SAP Sales and Distribution, SAP ERP
+> -	Purchase, Stock management, Logistics execution  
 
 
-**Microsoft Student Learn Ambassador** <br>
-*Aug 2020 – present* <br>
+**Warehouse Operative** <br>
+*May 2023 – Jan 2024* <br>
 **ACTIVITIES**
- > -  Access to  Microsoft AI and Machine learning resources and free Azure credits to experiment new ideas.
- > -  Collaborating with peers around the world to solve problems, share ideas, learn and get international exposure
- > -  Organize and host community Events of size 10- 30 attendees such as: Introduction to Git and GitHub (8th October 2020), Azure Machine Learning (31st October 2020) <br>
- > - 	Direct contact with Microsoft employees for guidance and exposure to trending ideas
+ > -  Demonstrated proficiency in managing day-to-day warehouse activities, utilizing Sage ERP, increasing warehouse efficiency by 15% through process improvements and inventory management strategies.
+ > -  Reduced warehouse and processing errors by 20% through implementation of a new quality control system (Scanning system) and adherence to quality standards.
+ > -  Contributed to a highly motivated team focused on achieving operational excellence, hence maintaining a high level of customer satisfaction by ensuring timely order fulfillment and accurate inventory tracking. <br>
 
-**Founder &CEO, Data Analyst, Database Developer and Administrator**<br>
-**SEED Inc. (Start-up): Data Management and Analytics**<br>
-*January 2016–September 2018*<br>
+**Sample Coordinator**<br>
+**PPD (Thermofisher), Zaventem**<br>
+*Feb 2023 – Apr 2023* <br>
 **ACTIVITIES**
-> -	Created and implemented the company’s vision and mission
-> - Led a team of four to developed the company’s short- and long-term strategies
-> - Maintained awareness of the competitive market landscape, negotiated strategic deals to expand company’s opportunities
-> - Set up strategic goals and made sure they are measurable and describable
+> -	Optimized supply chain operations by implementing a new sample tracking system, reducing inventory costs by 10%.
+> - Collaborated effectively with cross-functional teams to ensure the seamless flow of samples and data.
+> - Developed and implemented a new sample analysis process, reducing turnaround time by 25% and improving data accuracy.
 
-**ACTIVITIES AS HEALTH/BUSINESS DATA ANALYST:** 
-> -	Designed, developed and maintained customized RDBMS to replaced paper based systems . 
-> -	Trained staff of sizes 4-10 with close follow-up to ensure smooth transition t to the new computerized system.
-> -	Coordinate project team of 4- 6 consisting of network, IT, database and software developers.
-> -	Collected data from relational database, Ensure Data validation and preparation for analysis and produced health and business reports for several decision makers.
-> - Assemble and maintain relational databases to ensure no down time. 
-> -	Built and analyze live interactive using PowerBi,  SSRS and other reporting tools for the different departments. 
-> - Query the Relational databases using SQL to answer specific business questions
+**Animal Caretaker and Research Assistant**<br>
+**Nerf - empowered by imec, KU Leuven and VIB**<br>
+*SEP 2021 – Apr 2023* <br>
+**ACTIVITIES**
+> -	Demonstrated exceptional animal welfare expertise, providing meticulous care,
+> -	conducting daily monitoring, and contributing to research advancements.
+> -	Managed and maintained detailed records of research activities, contributing to compliance and regulatory requirements..
 
-**Health Data Analyst (Contract)** <br>
-**Mary Health of Africa, Fontem-Cameroon** <br>
-*Jan 2018 –April 2018* <br>
+**Employer Branding**<br>
+**IQVIA Belux, Zaventem**<br>
+*Sep 2022 – Jan 2023* <br>
+**ACTIVITIES**
+> -	Spearheaded comprehensive employer branding strategies,
+> -	attracting top talent,
+> -	enhancing the company's reputation,
+> -	and boosting candidate engagement.
 
-**Health Data Analyst (Contract)**<br>
-**Prestige Health Centre, Mbouda-Cameroon**<br>
-*August – October 2018*<br>
+**Technical Lead & Co-founder**<br>
+**Accessplug**<br>
+*Jan 2022 – Aug 2022* <br>
+**ACTIVITIES**
+> -	Co-founded and led the technical development of Accessplug, an innovative ticketing platform,
+> -	achieving successful launch, user adoption, and customer growth.
 
-**Health Data Analyst (Volunteer)**<br>
-**St Blaise Clinic, Bamenda-Cameroon** <br>
-*June 2016 –  December 2017* <br>
+**Business Development Representative**<br>
+**Impact Partners Consulting, Nigeria**<br>
+*Mar 2021 – Sep 2022* <br>
+**ACTIVITIES**
+> -	Led business development initiatives,
+> -	identifying new growth opportunities,
+> -	executing comprehensive strategies,
+> -	and driving client acquisition and revenue growth.
 
-**Monitoring and Evaluation officer (Internship)**
-**Mbingo Baptist Hospital, Cameroon**<br>
-*August 2015*<br>
+**Customer Service Representative**<br>
+**EasyPoint Camtel, Cameroon**<br>
+*Jul 2015 – Aug 2016* <br>
+**ACTIVITIES**
+> -	Developed a loyal customer base,
+> -	providing exceptional customer service,
+> -	conducting product demos,
+> -	and consistently exceeding sales targets. 
 
-**Business Data Analyst (Contract)**<br>
-**St Michael Academy of Science and Arts**<br>
-*September 2014 – June 2018*<br>
+**Commercial Agent**<br>
+**EasyPoint Camtel, Cameroon**<br>
+*May 2014 – Jun 2015* <br>
+**ACTIVITIES** 
+> -	Actively sought out new business opportunities,
+> -	cultivated client relationships,
+> -	negotiated favorable contracts,
+> -	and consistently exceeded sales goals.
 
-**Science Teacher (Part Time)**<br>
-**St Michael Academy of Science and Arts, Nkwen-Bamenda** <br>
-**Sacred Heart College, Mankon-Bamenda.** <br>
-**St Paul's College, Nkwen-Bamenda.** <br>
-*September 2012 - June2014*<br>
 
 ## Certifications, Training & Awards
 **Microsoft Certified: Data Analyst Associate**<br>
