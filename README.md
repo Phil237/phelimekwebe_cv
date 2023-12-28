@@ -137,7 +137,7 @@ to organizational growth and success.
 > - Describe Azure management and governance<br>
 
 **Linkedin Learning**<br>
-Learning path: Prepare for the Azure Data Fundamentals (DP-900) Certification Exam
+Learning path: Prepare for the Azure Data Fundamentals (DP-900) Certification Exam<br>
 Jan 2023<br>
 **Skills Acquired:**
 > - Data Analysis, Data Management, Microsoft Azure
@@ -145,7 +145,7 @@ Jan 2023<br>
 > - Develop a basic understanding of Azure data services
 > - Prepare for the Azure Data Fundamentals certification exam
 
-Learning path: Career Essentials in Business Analysis by Microsoft and LinkedIn
+Learning path: Career Essentials in Business Analysis by Microsoft and LinkedIn<br>
 *Mar 2023*<br>
 **Skills Acquired:**
 > - Requirements Gathering, Project Management, Business Analysis
@@ -154,7 +154,7 @@ Learning path: Career Essentials in Business Analysis by Microsoft and LinkedIn
 > - Leverage requirements gathering and analysis techniques
 
 **Coursera**<br>
-[SAP Technology Consultant](https://coursera.org/share/8a4396b0a8be01bf1e860d5bee1dc6e2)
+[SAP Technology Consultant](https://coursera.org/share/8a4396b0a8be01bf1e860d5bee1dc6e2)<br>
 Dec 2023<br>
 **Skills Acquired:**
 > - Solution design and implementation
@@ -163,7 +163,7 @@ Dec 2023<br>
 > - Client engagement and communication
 > - How to launch and develop your SAP career
 
-[Google Data Analytics](https://coursera.org/share/8cffae9b7f025967382668de93e31028)
+[Google Data Analytics](https://coursera.org/share/8cffae9b7f025967382668de93e31028)<br>
 Aug 2022<br>
 **Skills Acquired:**
 > - Data Analysis with R Programming
@@ -175,7 +175,7 @@ Aug 2022<br>
 > - Share Data Through the Art of Visualization
 > - Ask Questions to Make Data-Driven Decisions
 
-[Google Project Management: Professional Certificate](https://coursera.org/share/8cffae9b7f025967382668de93e31028)
+[Google Project Management: Professional Certificate](https://coursera.org/share/8cffae9b7f025967382668de93e31028)<br>
 Oct 2023<br>
 **Skills Acquired:**
 > - Procurement
@@ -185,7 +185,7 @@ Oct 2023<br>
 > - Project Planning
 
 **Datacamp**<br>
-[Professional Data Analyst Certificate](https://www.datacamp.com/certificate/DA0013152733614)
+[Professional Data Analyst Certificate](https://www.datacamp.com/certificate/DA0013152733614)<br>
 Jul 2022<br>
 **Skills Acquired:**
 > - Analytic Fundamentals
@@ -194,29 +194,27 @@ Jul 2022<br>
 > - Visualization and Reporting
 
 
-
 ## Hard Skills, Technologies and Personal Projects
-
 **Big Data Analytics** 
-> - [Introduction to Relational Database and SQL](https://coursera.org/share/7f1526f5fe1f9abcf1bd672d381d4c09)
-> - [Analyzing Olympics Data with SQL and Python]((https://app.datacamp.com/workspace/w/438fcba8-c5c5-4c0b-a520-95bf952e82ff))<br>
+> - [Introduction to Relational Database and SQL](https://coursera.org/share/7f1526f5fe1f9abcf1bd672d381d4c09)<br>
+> - [Analyzing Olympics Data with SQL and Python](https://app.datacamp.com/workspace/w/438fcba8-c5c5-4c0b-a520-95bf952e82ff)<br>
 > - [Analyzing TV Data](https://app.datacamp.com/workspace/w/406e39bb-c70c-45a3-a76b-9af64c9b0e30)<br>
 > - [Collaborating in Workspace](https://app.datacamp.com/workspace/w/e6af586d-e847-4256-978d-e0d016d13dae)<br>
 
 **Skills:** Python, Workspaces, Data wrangling, Visualization, SQL, MySQL, Jupyter Notebook, Markdown, pandas, Numpy, Data Science, Database (DBMS), Relational Database<br>
 
 **Business Analysis** 
-> - [Business Analysis & Process Management](https://coursera.org/share/062017cedc5e589a60d34f45b49951eb)
+> - [Business Analysis & Process Management](https://coursera.org/share/062017cedc5e589a60d34f45b49951eb)<br>
 
 **Skills:** Business background, Computer literacy, Process Management <br>
 
 **Digital Marketing**
-> - [Create a Landing Page using Mailchimp](https://coursera.org/share/ea3d25f0e2e6955d12ae9f92583a2bd5)
+> - [Create a Landing Page using Mailchimp](https://coursera.org/share/ea3d25f0e2e6955d12ae9f92583a2bd5)<br>
 
 **Skills:** Desig, Lead Generatio, landing page automation <br>
 
 
- **Soft Skills:** 
+## Soft Skills
  > - Business Process Improvement
  > - Strong communication and presentation skills 
  > - Creative, innovative, and strategic thinker
@@ -226,18 +224,3 @@ Jul 2022<br>
  
 
  
-
-<!--
-**ivombi/ivombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
