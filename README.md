@@ -88,10 +88,11 @@ to organizational growth and success.
 **Impact Partners Consulting, Nigeria**<br>
 *Mar 2021 – Sep 2022* <br>
 **ACTIVITIES**
-> -	Led business development initiatives,
-> -	identifying new growth opportunities,
-> -	executing comprehensive strategies,
-> -	and driving client acquisition and revenue growth.
+
+> -	Streamlined operations for a medical supplies client, reducing processing time by 20% and saving the company $100 thousand annually.
+> -	Developed and implemented a new marketing strategy for a retail client, increasing website traffic by 30% and boosting online sales by 25%.
+> -	Provided data-driven insights to senior management, leading to informed decision-making and improved business outcomes.
+> -	Led business development initiatives, identifying new growth opportunities, executing comprehensive strategies, and driving client acquisition and revenue growth.
 
 **Customer Service Representative**<br>
 **EasyPoint Camtel, Cameroon**<br>
