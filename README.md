@@ -49,7 +49,6 @@ to organizational growth and success.
 **Celyad Oncology, Mont-Saint-Guibert**<br>
 *Oct 2023 – Present*<br>
 **ACTIVITIES**
-> -	Project: SAP Implementation
 > -	Entered and processed sales orders into SAP SD for Celyad, a biotech company that develops CAR T-cell therapies for cancer treatment.
 > -	Maintained and updated customer master data for all Celyad's customers.
 > -	Issued invoices and sent them to customers.
