@@ -36,7 +36,7 @@ to organizational growth and success.
 
 ## Work Experience 
 **SAP Junior Consultant, SCM**<br>
-**SOA People**<br>
+**SOA People, The Value Chain**<br>
 *Feb 2024 – Present*<br>
 **ACTIVITIES**
 > -	Porojects: CSM Bakery Solutions (Customer Solutions, Support), Ardo (SAP Go-Live, Support), ADB SAFEGATE (SAP Implementation) 
