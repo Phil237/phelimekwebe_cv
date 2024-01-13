@@ -111,7 +111,18 @@ to organizational growth and success.
 (relevant for SAP S/4HANA Cloud, private edition and SAP S/4HANA on-premise) <br>
 *Jan 2024*<br>
 **Skills Acquired:**
-> - Business Processes Integration (BPI) in SAP S/4HANA<br>
+> - Business Processes Integration (BPI) in SAP S/4HANA
+> - SAP S/4HANA Basics
+> - Core Finance: Management Accounting (CO)
+> - Design to Operate Processing
+> - SAP Project Systems (PS)
+> - SAP Enterprise Asset Management (EAM)
+> - Lead to Cash Processing
+> - Source to Pay Processing
+> - Core Finance: Financial Accounting (FI)
+> - Warehouse and Inventory Management
+> - Hire to Retire Processing<br>
+
 
 **Microsoft Certified**<br>
 **[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/PhelimEkwebe-1327/5FF07370E59DB9B9?sharingId=52EA3AFD90417CE1)**<br>
