@@ -35,28 +35,10 @@ to organizational growth and success.
 *2010 - 2013* <br>
 
 ## Work Experience 
-**SAP Junior Consultant, SCM**<br>
-**SOA People, The Value Chain**<br>
-*Feb 2024 – Present*<br>
-**ACTIVITIES**
-> -	Porojects: CSM Bakery Solutions (Customer Solutions, Support), Ardo (SAP Go-Live, Support), ADB SAFEGATE (SAP Implementation) 
-> -	Providing comprehensive SAP technical support to clients across various industries, resolving complex issues related to SAP PP, MM, PM, and QM modules, ensuring business processes run smoothly.
-> -	Proficiently analyzed and troubleshooted SAP-related problems, identifying root causes and implementing effective solutions, minimizing downtime and maximizing system availability.
-> -	Collaborated closely with clients, providing in-depth technical explanations and helping them understand SAP functionalities, enhancing their knowledge and empowering them to resolve issues independently. 
-
-**Sales Order Processing Specialist**<br>
-**Celyad Oncology, Mont-Saint-Guibert**<br>
-*Oct 2023 – Present*<br>
-**ACTIVITIES**
-> -	Entered and processed sales orders into SAP SD for Celyad, a biotech company that develops CAR T-cell therapies for cancer treatment.
-> -	Maintained and updated customer master data for all Celyad's customers.
-> -	Issued invoices and sent them to customers.
-> -	Monitored order status and resolved any issues that arose, ensuring that Celyad's customers received their orders promptly and accurately.
-> -	Provided customer service to answer questions and resolve problems, helping Celyad to build strong relationships with its customers.
 
 **Warehouse Operative** <br>
 **BioIVT, Brussels**<br>
-*May 2023 – Oct 2023* <br>
+*May 2023 – Present* <br>
 **ACTIVITIES**
  > -  Demonstrated proficiency in managing day-to-day warehouse activities, utilizing Sage ERP, increasing warehouse efficiency by 15% through process improvements and inventory management strategies.
  > -  Reduced warehouse and processing errors by 20% through implementation of a new quality control system (Scanning system) and adherence to quality standards.
