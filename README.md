@@ -109,7 +109,7 @@ to organizational growth and success.
 **SAP Certificaions**<br>
 **SAP Certified Application Associate - Business Process Integration with SAP S/4HANA 2020**<br>
 (relevant for SAP S/4HANA Cloud, private edition and SAP S/4HANA on-premise) <br>
-*Dec 2023*<br>
+*Jan 2024*<br>
 **Skills Acquired:**
 > - Business Processes Integration (BPI) in SAP S/4HANA<br>
 
