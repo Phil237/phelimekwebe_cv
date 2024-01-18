@@ -24,7 +24,7 @@ to organizational growth and success.
 
 **Odisee University College** <br>
 *BSc. Business Management - Marketing* <br>
-*2020 - 2023* <br>
+*2020* <br>
 
 **Thomasmore University College** <br>
 *BSc. Data Science, Protection and Security* <br>
