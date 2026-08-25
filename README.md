@@ -17,6 +17,10 @@ to organizational growth and success.
  <br>
  *MBA: Business Information Management* <br>
  *2023* <br>
+
+ **Transport and Telecommunication Institue, Latvia** <br>
+*MSc Management of Information Systems* <br>
+*2024 - 2026* <br>
  
 **University College Leuven-Limburg, Belgium** <br>
 *PG. ERP (SAP) Functional Consultant* <br>
